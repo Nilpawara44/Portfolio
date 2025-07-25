@@ -9,7 +9,7 @@ function Home() {
         <img src="https://avatars.githubusercontent.com/u/124702114?v=4" alt="my_pfp" />
      </div>
      <div>
-        <h1 className='font-bold font-mono text-3xl'>Hi ! I am Nilesh Pawara</h1>
+        <h1 className='font-bold font-mono text-center text-3xl'>Hi ! I am Nilesh Pawara</h1>
      </div>
      <div>
         <p className='font-bolt font-mono'>MCA Student... </p>
