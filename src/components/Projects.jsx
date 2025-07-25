@@ -9,17 +9,12 @@ const projects = [
     tech: ['React', 'Tailwind CSS'],
   },
   {
-    title: 'Todo App',
-    description: 'A minimal productivity app to manage daily tasks.',
-    link: 'https://todo-app.com',
-    tech: ['React', 'Firebase'],
+    title: 'comming soon..',
+    description: 'i dont know what will be the description of it ',
+    link: 'https://demo.com',
+    tech: ['React', 'Tailwind'],
   },
-  {
-    title: 'E-commerce Store',
-    description: 'Full-featured e-commerce site with Stripe integration.',
-    link: 'https://mystore.com',
-    tech: ['Next.js', 'Stripe', 'Tailwind'],
-  },
+  
 ];
 
 const Projects = () => {

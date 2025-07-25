@@ -1,4 +1,6 @@
 import React from 'react'
+import About from './About'
+
 
 function Home() {
   return (
@@ -10,8 +12,12 @@ function Home() {
         <h1 className='font-bold font-mono text-3xl'>Hi ! I am Nilesh Pawara</h1>
      </div>
      <div>
-        <p>Currently Pursuing MCA. </p>
+        <p className='font-bolt font-mono'>MCA Student... </p>
      </div>
+     <div>
+      <button className='bg-transparent border rounded-md py-2 px-5 mt-4 border-amber-800 font-serif  shadow-sky-600 shadow-sm hover:cursor-pointer hover:bg-gray-50 hover:text-black transition-all'>Know More...</button>
+     </div>
+    
     </div>
   )
 }
