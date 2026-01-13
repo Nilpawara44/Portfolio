@@ -23,7 +23,7 @@ function About() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
           <div>
             <p className="text-gray-700">
-              <span className="font-semibold">Name:</span> Ilesh Pawara
+              <span className="font-semibold">Name:</span> Nilesh Pawara
             </p>
             <p className="text-gray-700">
               <span className="font-semibold">Phone:</span> 8999093368
